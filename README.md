@@ -9,5 +9,5 @@ This repository aims to plot black hole geodesics for Schwarzschild and Kerr bla
     - [x] Kerr
 - [x] Scipy `solve_ivp`
     - [x] Schwarzschild
-    - [ ] Kerr
-- [ ] Autodiff to calculate geodesics
+    - [x] Kerr
+- [x] Autodiff to calculate geodesics
